@@ -1,0 +1,29 @@
+h1 {
+    color: crimson;
+    font-size:34 
+}
+p {
+    color: cadetblue;
+    font-size: 34
+}
+h2 {
+    color: crimson;
+    font-size: 34;
+}
+li{
+    color: darkslateblue;
+    font-size: 34;
+}
+h4{
+    color: darkred;
+    font-size: 34;
+}
+h3{
+    color: crimson;
+}
+body{
+    background-image: url('R.jpg');
+    background-size: cover; /*la imagen cubre toda la pantalla*/
+    background-repeat: no-repeat; /*evita repeticiones*/
+    background-position: center; /*centra la imagen*/
+}
